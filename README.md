@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Komal Venugopal Vattumilli !](http://komalvenugopal.tech/)
 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:komalvenugopal@gmail.com)](mailto:komalvenugopal@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://komalvenugopal.tech)](https://komalvenugopal.tech) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vkvg45)](https://twitter.com/vkvg45) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vkvg.45/)](https://instagram.com/vkvg.45/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/vkvg.45)](https://facebook.com/vkvg.45)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/)](https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:komalvenugopal@gmail.com)](mailto:komalvenugopal@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://komalvenugopal.tech)](https://komalvenugopal.tech) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vkvg45)](https://twitter.com/vkvg45) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vkvg.45/)](https://instagram.com/vkvg.45/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/vkvg.45)](https://facebook.com/vkvg.45)
 [![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-green?style=flat&logo=hackerrank&logoColor=white&link=https://hackerrank.com/komalvenugopal)](https://hackerrank.com/komalvenugopal)
 [![GeeksForGeeks Badge](https://img.shields.io/badge/-geeksforgeeks-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/vattumillikomalvenugopal)](https://auth.geeksforgeeks.org/user/vattumillikomalvenugopal)
 
@@ -73,103 +73,9 @@ I am 4th year student pursuing Bachelors's in Computer Science 🎓 from VIT Uni
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komalvenugopal&margin-w=5" alt="komalvenugopal" /></a> </p>
 </details>
 
-<details>
- <summary><b>💥 Github Activity</b></summary>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#164](https://github.com/coderjojo/creative-profile-readme/pull/164) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
-2. ❗️ Closed issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-3. 💪 Opened PR [#438](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/438) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. 🎉 Merged PR [#2](https://github.com/manumanoj0010/Real-EState-Website/pull/2) in [manumanoj0010/Real-EState-Website](https://github.com/manumanoj0010/Real-EState-Website)
-5. 🎉 Merged PR [#3](https://github.com/manumanoj0010/Javascript-Applications/pull/3) in [manumanoj0010/Javascript-Applications](https://github.com/manumanoj0010/Javascript-Applications)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
- <summary><b>💻Work Time</b></summary>
-<!--START_SECTION:waka-->
- 
-**🐱 My Github Data** 
-
-> 🏆 428 Contributions in the Year 2020
- > 
-> 📦 950.5 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-🌆 Daytime    171 commits    ████████████░░░░░░░░░░░░░   49.14% 
-🌃 Evening    92 commits     ██████░░░░░░░░░░░░░░░░░░░   26.44% 
-🌙 Night      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Tuesday      47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-Wednesday    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-Friday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
-#
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my repositories!
 
 </div>
-
