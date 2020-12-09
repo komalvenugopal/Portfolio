@@ -78,8 +78,9 @@ I am 4th year student pursuing Bachelors's in Computer Science 🎓 from VIT Uni
 <br/><br/>
 <br/>
 <br/>
-<br/><br/>
-
+<br/>
+<br/>
+<br/>
 <br/>
 
 <details> 
