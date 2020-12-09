@@ -1,4 +1,4 @@
-<p>&nbsp;<img height="800em" align="center" src="https://raw.githubusercontent.com/komalvenugopal/Komalvenugopal/main/top.png" alt="komalvenugopal" /></p>
+<p>&nbsp;<img height="300em" align="center" src="https://raw.githubusercontent.com/komalvenugopal/Komalvenugopal/main/top.png" alt="komalvenugopal" /></p>
 
 ## Hey 👋, I'm [Komal Venugopal Vattumilli !](http://komalvenugopal.tech/)
 
