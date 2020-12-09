@@ -1,4 +1,6 @@
-<p>&nbsp;<img height="300em" align="center" src="https://raw.githubusercontent.com/komalvenugopal/Komalvenugopal/main/top.png" alt="komalvenugopal" /></p>
+[![bg][banner]][website]
+[banner]:https://raw.githubusercontent.com/komalvenugopal/Komalvenugopal/main/top.png
+[website]: https://komalvenugopal.tech
 
 ## Hey 👋, I'm [Komal Venugopal Vattumilli !](http://komalvenugopal.tech/)
 
