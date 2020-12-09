@@ -15,7 +15,7 @@ I am 4th year student pursuing Bachelors's in Computer Science 🎓 from VIT Uni
 
 ### More about me:
 
-- 👨💻 Currently working, learning and growing my skillset in Devops, Machine Learning, Deep learning and Competitive coding.
+- 👨 Currently working, learning and growing my skillset in Devops, Machine Learning, Deep learning and Competitive coding.
 - 🤝 Open for collaborations in web development 🕸️
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
 - 🌐 Visit my [porfolio website](https://komalvenugopal.tech) for complete background and contact.
