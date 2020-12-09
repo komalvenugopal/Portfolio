@@ -1,5 +1,4 @@
-[![bg][https://raw.githubusercontent.com/komalvenugopal/Komalvenugopal/main/top.png]]
-
+<img alt='Komal Venugopal' src='https://raw.githubusercontent.com/komalvenugopal/Komalvenugopal/main/Header.png'></img>
 
 ## Hey 👋, I'm [Komal Venugopal Vattumilli !](http://komalvenugopal.tech/)
 
