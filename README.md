@@ -77,7 +77,9 @@ I am 4th year student pursuing Bachelors's in Computer Science 🎓 from VIT Uni
 <h2>ℹ️ &nbsp;Github Info</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalvenugopal&show_icons=true&locale=en&layout=compact" alt="komalvenugopal" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalvenugopal&show_icons=true&locale=en" alt="komalvenugopal" /></p>
+<br/ >
 
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
