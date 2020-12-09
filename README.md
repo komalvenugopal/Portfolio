@@ -74,9 +74,11 @@ I am 4th year student pursuing Bachelors's in Computer Science 🎓 from VIT Uni
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>   
 </details>
 
+
 <h2>ℹ️ &nbsp;Github Info</h2>
-<img height="180em" src="https://github-readme-stats.komalvenugopal.vercel.app/api?username=komalvenugopal&show_icons=true&locale=en&hide_border=true" alt="komalvenugopal" />
-<img height="180em" src="https://github-readme-stats.komalvenugopal.vercel.app/api/top-langs?username=komalvenugopal&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="komalvenugopal"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalvenugopal&show_icons=true&locale=en&layout=compact" alt="komalvenugopal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalvenugopal&show_icons=true&locale=en" alt="komalvenugopal" /></p>
 
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
