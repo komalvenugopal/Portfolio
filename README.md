@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Komal Venugopal Vattumilli !](http://komalvenugopal.tech/)
+## Hey 👋, I'm [Komal Venugopal Vattumilli !](https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/)](https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:komalvenugopal@gmail.com)](mailto:komalvenugopal@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://komalvenugopal.tech)](https://komalvenugopal.tech)
 [![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-green?style=flat&logo=hackerrank&logoColor=white&link=https://hackerrank.com/komalvenugopal)](https://hackerrank.com/komalvenugopal)
